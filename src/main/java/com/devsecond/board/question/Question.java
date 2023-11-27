@@ -1,5 +1,6 @@
-package com.devsecond.board;
+package com.devsecond.board.question;
 
+import com.devsecond.board.answer.Answer;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
